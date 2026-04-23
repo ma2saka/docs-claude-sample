@@ -4,10 +4,10 @@
   "scripts": {
     "lint": "npm run lint:text && npm run lint:md",
     "lint:fix": "npm run lint:text:fix && npm run lint:md:fix",
-    "lint:text": "textlint 'docs/**/*.md' 'README.md'",
-    "lint:text:fix": "textlint --fix 'docs/**/*.md' 'README.md'",
-    "lint:md": "markdownlint 'docs/**/*.md' 'README.md'",
-    "lint:md:fix": "markdownlint --fix 'docs/**/*.md' 'README.md'"
+    "lint:text": "textlint 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
+    "lint:text:fix": "textlint --fix 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
+    "lint:md": "markdownlint 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
+    "lint:md:fix": "markdownlint --fix 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.39.0",
