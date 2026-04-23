@@ -1,0 +1,13 @@
+{
+  // Base: enable all rules, then relax what's noisy for Japanese tech docs.
+  "default": true,
+
+  // Line length: Japanese text doesn't wrap on byte-based limits cleanly.
+  "MD013": false,
+
+  // Allow inline HTML (needed for <details>, <br>, tables with merged cells, etc.).
+  "MD033": false,
+
+  // Allow the same sub-heading text under different parents (e.g. multiple "まとめ").
+  "MD024": { "siblings_only": true }
+}
