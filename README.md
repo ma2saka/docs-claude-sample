@@ -18,3 +18,4 @@
 - [11. Google WorkspaceとGemini](docs/11-google-workspace-and-gemini.md)
 - [12. Claudeを使いこなそう](docs/12-claude.md)
 - [Appendix: Claude Code](docs/appendix-claude-code.md)
+- [Appendix: デスクトップの自動化](docs/appendix-desktop-automation.md)
