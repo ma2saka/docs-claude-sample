@@ -46,7 +46,7 @@ sequenceDiagram
     participant C as クライアント（サービス側）
     participant T as 外部ツール
     U->>L: 「明日の予定を教えて」
-    L->>C: calendar.listEvents(date=2026-04-24) を呼んで欲しい
+    L->>C: calendar.listEvents(date=2026-04-24) の呼び出しを依頼
     C->>T: 実際のAPI呼び出し
     T-->>C: 予定データ
     C->>L: 結果をコンテキストに追加して再入力
