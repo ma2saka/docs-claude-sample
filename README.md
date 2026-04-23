@@ -15,5 +15,6 @@
 - [8. セキュリティ (個人利用編): 入出力の扱いと情シス観点](docs/8-security-individual.md)
 - [9. セキュリティ (エージェント時代のガバナンス): サンドボックス、MCP/コネクタ、レビューの限界](docs/9-security-agent-era.md)
 - [10. 改めてGeminiを使いこなそう](docs/10-gemini-advanced.md)
-- [11. Claudeを使いこなそう](docs/11-claude.md)
+- [11. Google WorkspaceとGemini](docs/11-google-workspace-and-gemini.md)
+- [12. Claudeを使いこなそう](docs/12-claude.md)
 - [Appendix: Claude Code](docs/appendix-claude-code.md)
