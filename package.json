@@ -1,0 +1,14 @@
+{
+  "name": "docs-claude-sample",
+  "private": true,
+  "scripts": {
+    "lint": "textlint 'docs/**/*.md' 'README.md'",
+    "lint:fix": "textlint --fix 'docs/**/*.md' 'README.md'"
+  },
+  "devDependencies": {
+    "textlint": "^14.0.0",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.0",
+    "textlint-rule-preset-ja-spacing": "^2.0.0",
+    "textlint-rule-prh": "^6.0.0"
+  }
+}
