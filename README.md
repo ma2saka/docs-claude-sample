@@ -19,3 +19,4 @@
 - [12. Claudeを使いこなそう](docs/12-claude.md)
 - [Appendix: Claude Code](docs/appendix-claude-code.md)
 - [Appendix: デスクトップの自動化](docs/appendix-desktop-automation.md)
+- [Appendix: ワークフローツール](docs/appendix-workflow-tools.md)
