@@ -1,0 +1,27 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 120
+      },
+      "no-exclamation-question-mark": false,
+      "ja-no-weak-phrase": false,
+      "max-kanji-continuous-len": false
+    },
+    "preset-ja-spacing": true,
+    "preset-jtf-style": {
+      "1.1.3.箇条書き": false,
+      "4.2.1.句点(。)と読点(、)": false,
+      "4.3.2.ピリオド(.)、カンマ(,)": false
+    },
+    "ja-hiragana-keishikimeishi": true,
+    "ja-hiragana-hojodoushi": true,
+    "ja-hiragana-fukushi": true,
+    "prh": {
+      "rulePaths": ["./prh.yml"]
+    }
+  },
+  "filters": {
+    "comments": true
+  }
+}
