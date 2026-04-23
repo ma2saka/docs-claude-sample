@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 120
+      },
+      "no-exclamation-question-mark": false,
+      "max-kanji-continuous-len": false
+    },
+    "preset-ja-spacing": true,
+    "prh": {
+      "rulePaths": ["./prh.yml"]
+    }
+  }
+}

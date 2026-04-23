@@ -1,0 +1,19 @@
+version: 1
+rules:
+  - expected: 生成AI
+    patterns:
+      - 生成系AI
+      - 生成系 AI
+  - expected: Google Workspace
+    patterns:
+      - /google\s*workspace/i
+  - expected: Claude Code
+    patterns:
+      - ClaudeCode
+      - /claude\s*code/
+  - expected: Gemini
+    patterns:
+      - /gemini/
+  - expected: Claude
+    patterns:
+      - /claude(?!\s*Code)/
