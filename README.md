@@ -6,8 +6,8 @@
 
 - [0. オーバービュー: すごいAI時代の到来](docs/0-overview.md)
 - [1. 初めに: 生成AIとは何か](docs/1-what-is-generative-ai.md)
-- [2. チャットだけではない: ツール呼び出しができる理由](docs/2-tool-calling.md)
-- [3. Google Workspaceで使えるGeminiを使ってみる (入門)](docs/3-gemini-in-workspace.md)
+- [2. Google Workspaceで使えるGeminiを使ってみる (入門)](docs/2-gemini-in-workspace.md)
+- [3. チャットだけではない: ツール呼び出しができる理由](docs/3-tool-calling.md)
 - [4. 「学習」というキーワードの誤解](docs/4-misunderstanding-learning.md)
 - [5. 用語について: モデル、プロバイダ、プロンプト、コンテキスト、トークン、エージェント](docs/5-terminology.md)
 - [6. セキュリティについて](docs/6-security.md)
