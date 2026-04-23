@@ -5,6 +5,7 @@ on:
     paths:
       - 'docs/**'
       - 'README.md'
+      - 'WRITING_GUIDE.md'
       - '.textlintrc.json'
       - '.markdownlint.jsonc'
       - 'prh.yml'
@@ -32,7 +33,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           level: warning
-          textlint_flags: "docs/**/*.md README.md"
+          textlint_flags: "docs/**/*.md README.md WRITING_GUIDE.md"
 
   markdownlint:
     name: markdownlint
@@ -44,4 +45,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           level: warning
-          markdownlint_flags: "docs/**/*.md README.md"
+          markdownlint_flags: "docs/**/*.md README.md WRITING_GUIDE.md"
