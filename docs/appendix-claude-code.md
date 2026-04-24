@@ -12,6 +12,8 @@ Claude Codeは、名前のとおりソフトウェア開発を主戦場に作ら
 
 コマンドラインを日常的に叩く必要はありません。たまに真っ黒な画面を開く覚悟が要る、くらいの温度感でお読みください。
 
+Claude Codeは、ブラウザ版Claude／Cowork／Computer Useと合わせたClaudeの4製品の1つです。違いを整理した表と図を[12章の「Claudeの主な4製品」節](12-claude.md)に置いたので、先に読んでおくと各製品の役割分担が分かりやすくなります。
+
 ## Claude Codeとは何者か
 
 Claude Codeは、Anthropic社が提供する**Claude公式のコマンドラインツール**です。ブラウザ版のClaudeが「向こうのサーバにある画面」だとすれば、Claude Codeは「自分のPCの中で動き、手元のファイルを触れるClaude」です。
