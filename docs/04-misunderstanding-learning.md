@@ -123,7 +123,7 @@ sequenceDiagram
 
 ## 参考
 
-- Anthropic「Privacy Policy」: <https://www.anthropic.com/legal/privacy>（最終確認：2026-04-23）
-- Anthropic「Usage Policies」: <https://www.anthropic.com/legal/aup>（最終確認：2026-04-23）
-- Google「Gemini Apps Privacy Hub」: <https://support.google.com/gemini/answer/13594961>（最終確認：2026-04-23）
-- Google Cloud「Generative AI and data governance」: <https://cloud.google.com/vertex-ai/generative-ai/docs/data-governance>（最終確認：2026-04-23）
+- Anthropic「Privacy Policy」: <https://www.anthropic.com/legal/privacy>（最終確認：2026-04-24）
+- Anthropic「Usage Policies」: <https://www.anthropic.com/legal/aup>（最終確認：2026-04-24）
+- Google「Gemini Apps Privacy Hub」: <https://support.google.com/gemini/answer/13594961>（最終確認：2026-04-24）
+- Google Cloud「Generative AI and data governance」: <https://cloud.google.com/vertex-ai/generative-ai/docs/data-governance>（最終確認：2026-04-24）

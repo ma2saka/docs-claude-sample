@@ -169,7 +169,7 @@ flowchart TD
 
 ## 参考
 
-- Anthropic「Use Artifacts to share AI-powered apps」: <https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them>（最終確認：2026-04-23）
-- Anthropic「Connectors on Claude.ai」: <https://support.anthropic.com/en/articles/10168395-connectors-on-claude-ai>（最終確認：2026-04-23）
-- Google「Gemini Canvas」: <https://support.google.com/gemini/answer/15286292>（最終確認：2026-04-23）
-- Google「Gemini in Google Workspace」: <https://workspace.google.com/solutions/ai/>（最終確認：2026-04-23）
+- Anthropic「Use Artifacts to share AI-powered apps」: <https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them>（最終確認：2026-04-24）
+- Anthropic「Connectors on Claude.ai」: <https://support.anthropic.com/en/articles/10168395-connectors-on-claude-ai>（最終確認：2026-04-24）
+- Google「Gemini Canvas」: <https://support.google.com/gemini/answer/15286292>（最終確認：2026-04-24）
+- Google「Gemini in Google Workspace」: <https://workspace.google.com/solutions/ai/>（最終確認：2026-04-24）

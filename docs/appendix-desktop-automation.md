@@ -155,9 +155,9 @@ flowchart TD
 
 ## 参考
 
-- Apple「ショートカット ユーザガイド」：<https://support.apple.com/ja-jp/guide/shortcuts/welcome/ios>（最終確認：2026-04-23）
-- Microsoft「Power Automate Desktopの概要」：<https://learn.microsoft.com/ja-jp/power-automate/desktop-flows/introduction>（最終確認：2026-04-23）
-- Raycast「AI features」：<https://www.raycast.com/ai>（最終確認：2026-04-23）
-- Anthropic「Computer use」：<https://docs.claude.com/en/docs/build-with-claude/computer-use>（最終確認：2026-04-23）
-- OpenAI「Introducing Operator」：<https://openai.com/index/introducing-operator/>（最終確認：2026-04-23）
-- Microsoft「Copilot Actions」：<https://learn.microsoft.com/ja-jp/copilot/microsoft-365/copilot-actions>（最終確認：2026-04-23）
+- Apple「ショートカット ユーザガイド」：<https://support.apple.com/ja-jp/guide/shortcuts/welcome/ios>（最終確認：2026-04-24）
+- Microsoft「Power Automate Desktopの概要」：<https://learn.microsoft.com/ja-jp/power-automate/desktop-flows/introduction>（最終確認：2026-04-24）
+- Raycast「AI features」：<https://www.raycast.com/ai>（最終確認：2026-04-24）
+- Anthropic「Computer use」：<https://docs.claude.com/en/docs/build-with-claude/computer-use>（最終確認：2026-04-24）
+- OpenAI「Introducing Operator」：<https://openai.com/index/introducing-operator/>（最終確認：2026-04-24）
+- Microsoft「Copilot Actions」：<https://learn.microsoft.com/ja-jp/copilot/microsoft-365/copilot-actions>（最終確認：2026-04-24）

@@ -98,5 +98,5 @@
 
 ## 参考
 
-- Anthropic「Models overview」：<https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-23）
-- Google「Gemini models」：<https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-23）
+- Anthropic「Models overview」：<https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-24）
+- Google「Gemini models」：<https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
