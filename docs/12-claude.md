@@ -14,7 +14,7 @@ Claude Code（自分のPCで動くClaude）については、本書では[Append
 
 ## Projects: 共通の前提を持ち回す作業場
 
-Claude.aiには**Projects**（プロジェクト）という単位があります。「同じ前提・同じ資料を毎回背負って始まるチャット部屋」とイメージしてください。10章で扱ったGeminiのGemsと役割は近いのですが、Projectsは**会話履歴・参照ファイル・カスタム指示を1つの箱で同居させる**点に重心があります。
+Claude.aiには**Projects**（プロジェクト）という単位があります。「同じ前提・同じ資料を毎回背負って始まるチャット部屋」とイメージしてください。10章で扱ったGeminiのGemsと役割は近いのですが、Projectsの肝は、**会話履歴・参照ファイル・カスタム指示を1つの箱としてまとめておける**ところです。
 
 1つのProjectには、おおむね次のものを置いておけます。
 
@@ -121,7 +121,7 @@ flowchart LR
 
 2026年に入って一般提供が始まった**Claude Cowork**は、ブラウザの中の会話を一歩外に連れ出す機能です。Claudeのデスクトップアプリ（macOS／Windows）に常駐し、**ローカルのファイル・フォルダ・アプリを横断しながら、頼まれた仕事を最後まで持っていく**役割を担います。
 
-ブラウザ版のClaudeが「向こう側で考える相棒」だとすれば、Coworkは「自分のPCの上で実際に手を動かしてくれる相棒」です。Pro／Maxプラン以降で利用でき、エージェント用のスレッドが永続的に走り続け、別のデバイスから様子を見たり指示を追加したりもできます。
+ブラウザ版のClaudeが「向こう側で考える相棒」だとすれば、Coworkは「自分のPCの上で実際に手を動かしてくれる相棒」です。Pro／Max以上のプランで利用でき、エージェント用のスレッドが永続的に走り続け、別のデバイスから様子を見たり指示を追加したりもできます。
 
 ### Coworkでやらせやすい仕事
 
@@ -184,9 +184,9 @@ Claudeは現時点で、**Opus／Sonnet／Haiku**の3系統が並びます。重
 ## 次の章への橋渡し
 
 - [Appendix: Claude Code](appendix-claude-code.md) — 自分のPCのファイルやコマンドまで触れる、CLI／IDE拡張版のClaude
-- [Appendix: デスクトップの自動化](appendix-desktop-automation.md) — Coworkを含む、PC上の作業自動化の選び方の地図
+- [Appendix: デスクトップの自動化](appendix-desktop-automation.md) — PC上の作業自動化を3アプローチで俯瞰する地図。Coworkの位置取りを掴むときに有効
 - [Appendix: ワークフローツール](appendix-workflow-tools.md) — ZapierやMakeなど、SaaS同士の橋渡しを担うツール群
-- [9章](09-security-agent-era.md) — リモートMCPやCowork含む、エージェント時代のガバナンス
+- [9章](09-security-agent-era.md) — リモートMCPやエージェントを業務に下ろすときの境界管理
 
 ## まとめ
 
