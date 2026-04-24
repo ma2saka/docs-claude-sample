@@ -1,6 +1,6 @@
 # 12. Claudeを使いこなそう
 
-[7章](07-common-capabilities.md)で「チャット／アーティファクト／コネクタ」という共通の骨格を学び、[10章](10-gemini-advanced.md)・[11章](11-google-workspace-and-gemini.md)でGemini側の手ざわりを見てきました。本章はその対になる位置で、**Claude固有の使いこなし**だけを取り上げます。Geminiと並べたときに際立つClaudeの個性、知っておきたい現時点の制約、使い分けの感覚、の3点を軸に進めます。
+[7章](07-common-capabilities.md)で「チャット／アーティファクト／コネクタ」という共通の骨格を学び、[10章](10-gemini-advanced.md)・[11章](11-google-workspace-and-gemini.md)でGemini側の手ざわりを見てきました。本章はその対になる位置で、**Claude固有の使いこなし**だけを取り上げます。Geminiと並べたときに際立つClaudeの個性、知っておきたい現時点の制約、Claudeに寄せたい場面、の3点を軸に進めます。
 
 Claude Code（自分のPCで動くClaude）については、本ドキュメントでは[Appendix: Claude Code](appendix-claude-code.md)で別立てに扱います。本章はあくまでブラウザの`https://claude.ai`とデスクトップアプリから始める使いこなしを中心に据えます。
 
@@ -176,12 +176,12 @@ Free／Pro／Max／Team／Enterpriseのプラン差は、Claudeでは**できる
 
 Claudeは現時点で、**Opus／Sonnet／Haiku**の3系統が並びます。重い推論はOpus、日常使いはSonnet、軽量・大量さばきはHaiku、というおおまかな住み分けです。Projectsやコネクタの裏でも、状況に応じてモデルが切り替わる場合もあります。「同じ質問なのに昨日と回答の手触りが違う」と感じたら、モデル選択の指定欄を覗いてみてください。
 
-## ClaudeがGeminiに先んじる場面
+## Claudeに寄せたい場面
 
 ClaudeとGeminiの使い分け早見表は[7章](07-common-capabilities.md)にまとめてあるので、本章では**Claude側に寄せたほうが素直に進む場面**だけを短く補足します。
 
 - **Workspace外のSaaSを材料にしたいとき** — Slack・Notion・HubSpotなどに、本章で挙げた公式コネクタがそのまま使える
-- **社内の独自ツールを繋ぎたいとき** — リモートMCPサーバ節のとおり、自前のMCPを登録する自由度が高い
+- **社内の独自ツールを繋ぎたいとき** — 本章で扱ったリモートMCPサーバを自前で登録できる自由度が高い
 - **動くプレビューを外部に見せたいとき** — Artifactsの公開リンクがそのまま共有手段として使える
 - **自分のPCでの横断作業を任せたいとき** — Claude Cowork／Claude Codeといったデスクトップ寄りの選択肢が揃う
 

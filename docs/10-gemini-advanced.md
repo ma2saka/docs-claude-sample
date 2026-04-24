@@ -1,6 +1,6 @@
 # 10. あらためてGeminiを使いこなそう
 
-[1章](01-gemini-in-workspace.md)でGeminiの入口を体験し、[7章](07-common-capabilities.md)でチャット・アーティファクト・コネクタという共通の骨格を学びました。本章はその続きで、「Gemini固有の手ざわり」だけを取り上げます。Claudeと並べると際立つGeminiの個性、知っておきたい現時点の制約、使い分けの感覚、の3点を軸に進めます。
+[1章](01-gemini-in-workspace.md)でGeminiの入口を体験し、[7章](07-common-capabilities.md)でチャット・アーティファクト・コネクタという共通の骨格を学びました。本章はその続きで、「Gemini固有の手ざわり」だけを取り上げます。Claudeと並べると際立つGeminiの個性、知っておきたい現時点の制約、Geminiに寄せたい場面、の3点を軸に進めます。
 
 Google Workspaceとの統合の詳細（Docs・Sheets・Gmail・Meetでの具体的な使いどころなど）は[11章](11-google-workspace-and-gemini.md)が担当します。本章と11章の棲み分けは「Gemini単体の深掘り」が10章、「Workspaceアプリ側からの眺め」が11章、と覚えてください。
 
@@ -106,7 +106,7 @@ GmailのサイドパネルからGeminiに返信下書きを作らせることは
 
 Geminiの真価が出る機能（サイドパネル統合・Drive検索連携・Meet議事録連動など）の多くは、Google Workspaceの有料プランに紐づいています。プランの名称は「Gemini for Google Workspace」です。個人のGoogleアカウントで試した感触と、会社のWorkspaceアカウントで使った体験は別物になることがあります。プランと有効化状況は情シス部門への確認が確実です。
 
-## GeminiがClaudeに先んじる場面
+## Geminiに寄せたい場面
 
 ClaudeとGeminiの使い分け早見表は[7章](07-common-capabilities.md)にまとめてあるので、本章では**Gemini側に寄せたほうが素直に進む場面**だけを短く補足します。
 
