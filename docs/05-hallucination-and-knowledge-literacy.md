@@ -178,7 +178,7 @@ sequenceDiagram
 
 ## 参考
 
-- Anthropic「Claude models overview」：<https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-24）
-- Google「Gemini models」：<https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
-- OpenAI「Models」：<https://platform.openai.com/docs/models>（最終確認：2026-04-24）
-- Ji, Ziwei et al.「Survey of Hallucination in Natural Language Generation」：<https://dl.acm.org/doi/10.1145/3571730>（最終確認：2026-04-24）
+- Anthropic「Claude models overview」: <https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-24）
+- Google「Gemini models」: <https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
+- OpenAI「Models」: <https://platform.openai.com/docs/models>（最終確認：2026-04-24）
+- Ji, Ziwei et al.「Survey of Hallucination in Natural Language Generation」: <https://dl.acm.org/doi/10.1145/3571730>（最終確認：2026-04-24）
