@@ -15,7 +15,7 @@
 - [4. 「学習」というキーワードの誤解](docs/04-misunderstanding-learning.md)
 - [5. ハルシネーションと「AIが知っていること」のリテラシー](docs/05-hallucination-and-knowledge-literacy.md)
 - [6. 用語について: モデル、プロバイダ、プロンプト、コンテキスト、トークン、エージェント](docs/06-terminology.md)
-- [7. 生成AIでできること (共通編): チャット、アーティファクト、コネクタ経由の外部サービス利用](docs/07-common-capabilities.md)
+- [7. 生成AIでできること (共通編): チャット・アーティファクト・コネクタの3本柱](docs/07-common-capabilities.md)
 - [8. セキュリティ（個人利用編）: 入出力の扱いと情シス観点](docs/08-security-individual.md)
 - [9. セキュリティ（エージェント時代のガバナンス）: サンドボックス、MCP/コネクタ、レビューの限界](docs/09-security-agent-era.md)
 - [10. あらためてGeminiを使いこなそう](docs/10-gemini-advanced.md)
