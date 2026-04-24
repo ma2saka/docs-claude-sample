@@ -18,7 +18,7 @@
 - [7. 生成AIでできること (共通編): チャット、アーティファクト、コネクタ経由の外部サービス利用](docs/7-common-capabilities.md)
 - [8. セキュリティ（個人利用編）: 入出力の扱いと情シス観点](docs/8-security-individual.md)
 - 9. セキュリティ（エージェント時代のガバナンス）: サンドボックス、MCP/コネクタ、レビューの限界（未執筆）
-- 10. あらためてGeminiを使いこなそう（未執筆）
+- [10. あらためてGeminiを使いこなそう](docs/10-gemini-advanced.md)
 - 11. Google WorkspaceとGemini（未執筆）
 - 12. Claudeを使いこなそう（未執筆）
 - [Appendix: Claude Code](docs/appendix-claude-code.md)
