@@ -9,7 +9,7 @@
 ## 目次
 
 - [0. オーバービュー: すごいAI時代の到来](docs/0-overview.md)
-- 1. Google Workspaceで使えるGeminiを使ってみる（入門）（未執筆）
+- [1. Google Workspaceで使えるGeminiを使ってみる（入門）](docs/1-gemini-in-workspace.md)
 - 2. 生成AIとは何か（未執筆）
 - [3. 外部システムとの接続: ツール呼び出しの仕組み](docs/3-external-system-integration.md)
 - [4. 「学習」というキーワードの誤解](docs/4-misunderstanding-learning.md)
