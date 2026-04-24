@@ -18,7 +18,8 @@
     "ja-hiragana-hojodoushi": true,
     "ja-hiragana-fukushi": true,
     "prh": {
-      "rulePaths": ["./prh.yml"]
+      "severity": "warning",
+      "rulePaths": ["./prh.yml", "./prh-style.yml"]
     }
   },
   "filters": {
