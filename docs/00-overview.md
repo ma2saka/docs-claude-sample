@@ -76,6 +76,6 @@ flowchart TB
 
 ## 参考
 
-- Anthropic「Meet Claude」: <https://www.anthropic.com/claude>（最終確認：2026-04-23）
-- Google「Gemini models」: <https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-23）
-- Model Context Protocol: <https://modelcontextprotocol.io/>（最終確認：2026-04-23）
+- Anthropic「Meet Claude」: <https://www.anthropic.com/claude>（最終確認：2026-04-24）
+- Google「Gemini models」: <https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
+- Model Context Protocol: <https://modelcontextprotocol.io/>（最終確認：2026-04-24）

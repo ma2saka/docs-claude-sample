@@ -133,9 +133,9 @@ CLIやMCPといった語感に気圧されて忘れがちですが、Claude Code
 
 ## 参考
 
-- Anthropic「Claude Code overview」：<https://docs.claude.com/en/docs/claude-code/overview>（最終確認：2026-04-23）
-- Anthropic「Claude Code quickstart」：<https://docs.claude.com/en/docs/claude-code/quickstart>（最終確認：2026-04-23）
-- Anthropic「Model Context Protocol」：<https://modelcontextprotocol.io/>（最終確認：2026-04-23）
+- Anthropic「Claude Code overview」：<https://docs.claude.com/en/docs/claude-code/overview>（最終確認：2026-04-24）
+- Anthropic「Claude Code quickstart」：<https://docs.claude.com/en/docs/claude-code/quickstart>（最終確認：2026-04-24）
+- Anthropic「Model Context Protocol」：<https://modelcontextprotocol.io/>（最終確認：2026-04-24）
 <!-- textlint-disable prh -->
-- GitHub「anthropics/claude-code」：<https://github.com/anthropics/claude-code>（最終確認：2026-04-23）
+- GitHub「anthropics/claude-code」：<https://github.com/anthropics/claude-code>（最終確認：2026-04-24）
 <!-- textlint-enable prh -->

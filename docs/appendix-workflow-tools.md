@@ -132,7 +132,7 @@ flowchart TD
 
 ## 参考
 
-- Zapier「AI Actions／AIノード」：<https://zapier.com/ai>（最終確認：2026-04-23）
-- Make「AI AgentsとLLM連携」：<https://www.make.com/en/ai-automation>（最終確認：2026-04-23）
-- n8n「AI & LangChainノード」：<https://docs.n8n.io/advanced-ai/>（最終確認：2026-04-23）
-- Dify「ドキュメント」：<https://docs.dify.ai/>（最終確認：2026-04-23）
+- Zapier「AI Actions／AIノード」：<https://zapier.com/ai>（最終確認：2026-04-24）
+- Make「AI AgentsとLLM連携」：<https://www.make.com/en/ai-automation>（最終確認：2026-04-24）
+- n8n「AI & LangChainノード」：<https://docs.n8n.io/advanced-ai/>（最終確認：2026-04-24）
+- Dify「ドキュメント」：<https://docs.dify.ai/>（最終確認：2026-04-24）
