@@ -71,7 +71,7 @@ sequenceDiagram
 
 期待はできますが、現状は**遅い・高い・壊れやすい**の三拍子が揃っています。APIを持たないアプリを相手にせざるを得ないときの、最後の選択肢として位置づけるのが実情に合っています。
 
-AnthropicのComputer Useは、ブラウザ版Claude／Cowork／Claude Codeと並ぶClaudeの主要製品の1つでもあります。他3製品との違いは、[12章の「Claudeの主な4製品」節](12-claude.md)で整理しています。
+AnthropicのComputer Useも、ブラウザ版Claude／Cowork／Claude Codeと合わせたClaudeの4製品の1つです。他3製品との違いは、[12章の「Claudeの主な4製品」節](12-claude.md)で整理しています。
 
 ### スクリプト生成・実行型
 
