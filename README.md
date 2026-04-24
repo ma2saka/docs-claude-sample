@@ -12,7 +12,7 @@
 
 ### I. 導入と体験
 
-- [0. オーバービュー: すごいAI時代の到来](docs/00-overview.md)
+- [0. オーバービュー: 本ドキュメントの地図](docs/00-overview.md)
 - [1. Google Workspaceで使えるGeminiを使ってみる (入門)](docs/01-gemini-in-workspace.md)
 
 ### II. 土台の理解
