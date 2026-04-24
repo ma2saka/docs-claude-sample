@@ -193,13 +193,6 @@ Claudeは現時点で、**Opus／Sonnet／Haiku**の3系統が並びます。重
 
 この表も執筆時点の傾向であり、半年も経てば配置が動いている可能性は十分にあります。「とりあえず使い始めて、壁にぶつかったら隣のサービスを覗く」くらいの気楽さで構えておくと、事前の比較検討に手を取られにくく、実地の感覚が先に育ちます。
 
-## 次の章への橋渡し
-
-- [Appendix: Claude Code](appendix-claude-code.md) — 自分のPCのファイルやコマンドまで触れる、CLI／IDE拡張版のClaude
-- [Appendix: デスクトップの自動化](appendix-desktop-automation.md) — PC上の作業自動化を3アプローチで俯瞰する地図。Coworkの位置取りを掴むときに有効
-- [Appendix: ワークフローツール](appendix-workflow-tools.md) — ZapierやMakeなど、SaaS同士の橋渡しを担うツール群
-- [9章](09-security-agent-era.md) — リモートMCPやエージェントを業務に下ろすときの境界管理
-
 ## まとめ
 
 - **Projects**は、カスタム指示・参照ファイル・会話履歴を1つの箱に閉じ込めて、メンバーで共有できる作業場
@@ -208,6 +201,7 @@ Claudeは現時点で、**Opus／Sonnet／Haiku**の3系統が並びます。重
 - **リモートMCPサーバ**を自由に挿せるのが、現時点で分かりやすい強み。ただし出所と権限は要吟味
 - **Claude Cowork**はデスクトップアプリの常駐エージェント。複数アプリ横断の「やっておく」系の仕事に向く
 - プラン差・コネクタの鮮度・モデル選択は、半年単位で動く前提のもと付き合う
+- さらに踏み込むときは、[Appendix: Claude Code](appendix-claude-code.md) や [Appendix: デスクトップの自動化](appendix-desktop-automation.md) が具体像の入口となる
 
 ## 参考
 

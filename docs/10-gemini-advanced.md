@@ -121,11 +121,6 @@ Geminiの真価が出る機能（サイドパネル統合・Drive検索連携・
 
 この表は2026年4月時点の傾向であり、数か月後には変わっている可能性があります。「とりあえず使い始めて、壁にぶつかったら乗り換える」くらいの気楽さで構えておくと、過剰な事前調査に時間を食われにくくなります。道具の適材適所は、使い続けるうちに輪郭が掴めてくるものです。
 
-## 次の章への橋渡し
-
-- [11章](11-google-workspace-and-gemini.md) — Docs・Sheets・Gmail・Meetの各アプリ側から見たGemini統合の詳細
-- [12章](12-claude.md) — Claude固有の使いこなし。Projects、Artifacts、コネクタ、MCPの活用
-
 ## まとめ
 
 - **Gems**を使うと、役割・口調・参照ファイルをプリセットに仕込んで繰り返し呼び出せる
@@ -134,6 +129,7 @@ Geminiの真価が出る機能（サイドパネル統合・Drive検索連携・
 - 画像生成（Imagen）と動画生成（Veo）もGeminiアプリから呼び出せるが、商用利用は利用規約を確認
 - **メール送信は手動**・外部MCPへの自由な接続は現時点では限定的、という制約は把握しておく
 - Google Workspaceの内側での作業はGeminiが距離ゼロ。外部ツールへのMCP連携はClaudeが得意
+- 次は [11章（Google WorkspaceとGemini）](11-google-workspace-and-gemini.md) で、Docs・Sheets・Gmail・Meetの各アプリ側から見たGemini統合へ進む
 
 ## 参考
 
