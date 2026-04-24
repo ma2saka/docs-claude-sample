@@ -178,7 +178,7 @@ Claudeは現時点で、**Opus／Sonnet／Haiku**の3系統が並びます。重
 
 ## Claudeに寄せたい場面
 
-ClaudeとGeminiの使い分け早見表は[7章](07-common-capabilities.md)にまとめてあるので、本章では**Claude側に寄せたほうが素直に進む場面**だけを短く補足します。
+ClaudeとGeminiの使い分け早見表は[7章](07-common-capabilities.md)にまとめてあるので、本章では**Claude側に寄せたほうが進めやすい場面**だけを短く補足します。
 
 - **Workspace外のSaaSを材料にしたいとき** — Slack・Notion・HubSpotなどに、本章で挙げた公式コネクタがそのまま使える
 - **社内の独自ツールを繋ぎたいとき** — 本章で扱ったリモートMCPサーバを自前で登録できる自由度が高い

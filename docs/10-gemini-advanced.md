@@ -108,7 +108,7 @@ Geminiの真価が出る機能（サイドパネル統合・Drive検索連携・
 
 ## Geminiに寄せたい場面
 
-ClaudeとGeminiの使い分け早見表は[7章](07-common-capabilities.md)にまとめてあるので、本章では**Gemini側に寄せたほうが素直に進む場面**だけを短く補足します。
+ClaudeとGeminiの使い分け早見表は[7章](07-common-capabilities.md)にまとめてあるので、本章では**Gemini側に寄せたほうが進めやすい場面**だけを短く補足します。
 
 - **Workspaceアプリの画面に居たいとき** — Docs・Sheets・Gmail・Meetを開いたまま、サイドパネル統合が距離ゼロで動く
 - **マルチモーダルの素材を束ねたいとき** — 画像・音声・動画・PDFなどを1回の依頼で一緒に扱える
