@@ -59,7 +59,7 @@ npm run lint:fix
 
 ## ファイル名とH1見出しの規約
 
-- 章ファイル： `docs/<番号>-<英小文字ハイフン区切り>.md`（例： `docs/3-external-system-integration.md`）
+- 章ファイル： `docs/<番号>-<英小文字ハイフン区切り>.md`（例： `docs/03-external-system-integration.md`）
 - 付録ファイル： `docs/appendix-<英小文字ハイフン区切り>.md`
 - H1はファイル冒頭に1つだけ。章タイトルと完全一致させる
 - H1の例： `# 3. 外部システムとの接続: ツール呼び出しの仕組み`
