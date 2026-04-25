@@ -27,7 +27,7 @@
 
 - [7. 生成AIでできること (共通編): チャット・アーティファクト・コネクタの3本柱](docs/07-common-capabilities.md)
 - [8. セキュリティ (個人利用編): 入出力の扱いと情シス観点](docs/08-security-individual.md)
-- [9. セキュリティ (エージェント時代のガバナンス): サンドボックス、MCP/コネクタ、確認の限界](docs/09-security-agent-era.md)
+- [9. セキュリティ (エージェント時代のガバナンス): サンドボックス、MCP/コネクタ、確認をどこに絞るか](docs/09-security-agent-era.md)
 
 ### IV. サービス別の使いこなし
 
