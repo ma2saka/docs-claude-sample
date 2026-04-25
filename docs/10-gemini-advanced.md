@@ -104,7 +104,7 @@ GmailのサイドパネルからGeminiに返信下書きを作らせることは
 
 ### Google Workspaceとの深い結合はプラン依存
 
-Geminiの真価が出る機能（サイドパネル統合・Drive検索連携・Meet議事録連動など）の多くは、Google Workspaceの有料プランに紐づいています。プランの名称は「Gemini for Google Workspace」です。個人のGoogleアカウントで試した感触と、会社のWorkspaceアカウントで使った体験は別物になることがあります。プランと有効化状況は情シス部門への確認が確実です。
+Geminiの真価が出る機能（サイドパネル統合・Drive検索連携・Meet議事録連動など）の多くは、Google Workspaceの有料プランに紐づいています。プランの名称は「Gemini for Google Workspace」です。個人のGoogleアカウントで試した感触と、会社のWorkspaceアカウントで使った体験は別物になることがあります。プランと有効化状況は、組織のWorkspace管理者に確認するのが確実です。担当部署の名称は組織により異なります（IT・総務など）。
 
 ## Geminiに寄せたい場面
 
