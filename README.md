@@ -42,3 +42,4 @@
 - [Appendix: デスクトップの自動化](docs/appendix-desktop-automation.md)
 - [Appendix: Claude Code](docs/appendix-claude-code.md)
 - [Appendix: 拡張検索と埋め込み検索](docs/appendix-retrieval-and-embeddings.md)
+- [Appendix: ローカルLLM](docs/appendix-local-llm.md)
