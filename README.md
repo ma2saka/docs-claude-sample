@@ -18,22 +18,23 @@
 ### II. 土台の理解
 
 - [2. 生成AIとは何か](docs/02-what-is-generative-ai.md)
-- [3. 外部システムとの接続: ツール呼び出しの仕組み](docs/03-external-system-integration.md)
-- [4. 「学習」というキーワードの誤解](docs/04-misunderstanding-learning.md)
-- [5. ハルシネーション: 「AIが知っていること」のリテラシー](docs/05-hallucination-and-knowledge-literacy.md)
-- [6. 用語集: モデル・プロンプト・コンテキストほか](docs/06-terminology.md)
+- [3. マルチモーダル: テキスト以外の入出力との付き合い方](docs/03-multimodal.md)
+- [4. 外部システムとの接続: ツール呼び出しの仕組み](docs/04-external-system-integration.md)
+- [5. 「学習」というキーワードの誤解](docs/05-misunderstanding-learning.md)
+- [6. ハルシネーション: 「AIが知っていること」のリテラシー](docs/06-hallucination-and-knowledge-literacy.md)
+- [7. 用語集: モデル・プロンプト・コンテキストほか](docs/07-terminology.md)
 
 ### III. 共通能力とセキュリティ
 
-- [7. 生成AIでできること (共通編): チャット・アーティファクト・コネクタの3本柱](docs/07-common-capabilities.md)
-- [8. セキュリティ (個人利用編): 入出力と履歴の扱い方](docs/08-security-individual.md)
-- [9. セキュリティ (エージェント時代のガバナンス): 組織ルールの理屈と、追加で気にすること](docs/09-security-agent-era.md)
+- [8. 生成AIでできること (共通編): チャット・アーティファクト・コネクタの3本柱](docs/08-common-capabilities.md)
+- [9. セキュリティ (個人利用編): 入出力と履歴の扱い方](docs/09-security-individual.md)
+- [10. セキュリティ (エージェント時代のガバナンス): 組織ルールの理屈と、追加で気にすること](docs/10-security-agent-era.md)
 
 ### IV. サービス別の使いこなし
 
-- [10. あらためてGeminiを使いこなそう](docs/10-gemini-advanced.md)
-- [11. Google WorkspaceとGemini](docs/11-google-workspace-and-gemini.md)
-- [12. Claudeを使いこなそう](docs/12-claude.md)
+- [11. あらためてGeminiを使いこなそう](docs/11-gemini-advanced.md)
+- [12. Google WorkspaceとGemini](docs/12-google-workspace-and-gemini.md)
+- [13. Claudeを使いこなそう](docs/13-claude.md)
 
 ### 付録
 
