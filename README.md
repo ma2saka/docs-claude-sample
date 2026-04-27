@@ -32,7 +32,7 @@
 
 ### IV. サービス別の使いこなし
 
-- [11. あらためてGeminiを使いこなそう](docs/11-gemini-advanced.md)
+- [11. Geminiを使いこなそう](docs/11-gemini-advanced.md)
 - [12. Google WorkspaceとGemini](docs/12-google-workspace-and-gemini.md)
 - [13. Claudeを使いこなそう](docs/13-claude.md)
 
