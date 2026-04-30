@@ -120,7 +120,7 @@ URLは`https://notebooklm.google.com/`です。個人アカウントからも試
 
 ### Google Vids: AI支援の動画エディタ
 
-Google Vids（`https://studio.workspace.google.com/`および`https://vids.google.com/`が主な入口）は、Workspaceプランから利用できる動画作成サービスです。テキストの筋書きから、スライド風の動画のたたき台を作成し、ナレーション・字幕・BGMを重ねられます。本ドキュメントでは深掘りしませんが、社内向けの短い説明動画をスライドより速く作りたい場面の選択肢として、名称だけ押さえておきます。
+Google Vids（`https://studio.workspace.google.com/`および`https://vids.google.com/`が主な入口）は、Workspaceプランから利用できる動画作成サービスです。テキストの筋書きから、スライド風の動画のたたき台を作成し、ナレーション・字幕・BGMを重ねられます。本ドキュメントでは深掘りせず、社内向けの短い説明動画をスライドより速く作りたい場面の選択肢として、名称を挙げるに留めます。
 
 これら周辺サービスは、Workspaceプランによって利用可否が異なります。見当たらない場合は、プラン側の確認から始めるのが順当です。Workspace単体で閉じない自動化（ZapierやMakeなどとの組み合わせ）を検討する段階の選択肢は、[Appendix: ワークフローツール](appendix-workflow-tools.md)にまとめています。
 
