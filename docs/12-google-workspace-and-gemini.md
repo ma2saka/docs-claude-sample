@@ -34,7 +34,7 @@ flowchart LR
 
 ## Workspace Intelligence: アプリ横断のsemantic layer
 
-2026年4月のGoogle Cloud Next 2026で、Workspace向けの新しい仕組みとしてWorkspace Intelligenceが発表されました。Gmail・Docs・Drive・Meet・Chatで扱う素材を、ひとつの意味的な層として横断参照できるようにする位置づけです。アプリごとに別々に置かれていた素材（メール本文、ドキュメント本文、Drive上のファイル、Meetの議事録、Chatのスレッド）が、同じ会話の材料として連続的に扱われる構成になっています。
+2026年4月のGoogle Cloud Next 2026で、Workspace向けの新しい仕組みとしてWorkspace Intelligenceが発表されました。Gmail・Docs・Drive・Meet・Chatで扱う素材を、ひとつの意味的な層として横断参照できるようにする位置づけです。アプリごとに別々に置かれていた素材（メール本文、ドキュメント本文、Drive上のファイル、Meetの議事録、Chatのスレッド）を、同じ会話の中でまとめて参照できる構成になっています。
 
 利用者にとっての入口は`Ask Gemini in Chat`です。Google Chat（Workspaceに同梱されたチャットアプリ）で`Ask Gemini`と依頼すると、現在のWorkspaceドメイン内の素材を横断して回答が組み立てられます。Docsを開いていない状態でも、関連するメール・過去のドキュメント・最近の議事録などが必要に応じて根拠として参照されます。
 
