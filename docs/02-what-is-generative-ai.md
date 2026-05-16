@@ -126,7 +126,7 @@ flowchart LR
 | 費用（API利用時） | 入出力トークン分のみ | 内部の思考分のトークンも課金対象になりやすい |
 | 得意になりやすい題材 | 要約、言い換え、定型の下書き | 多段の数学、コード生成、厳密な手順の組み立て |
 
-呼び名はプロバイダ・モデルごとに異なります。Claudeでは `extended thinking`、Geminiでは `Deep Think`、OpenAI系では `o`系列の推論モデルというように、表記はそろっていません。これらはいずれも同じ系統の機能を指しており、社内資料や外部記事の比較もこの対応関係に立って書かれています。各社のモデル並びでの位置づけは[11章](11-gemini-advanced.md)・[13章](13-claude.md)で扱います。
+呼び名はプロバイダ・モデルごとに異なります。Claudeでは `extended thinking`、Geminiでは `Deep Think`、OpenAI系では `o`系列の推論モデルというように、表記はそろっていません。これらはいずれも同じ系統の機能を指しており、社内資料や外部記事の比較もこの対応関係に立って書かれています。Gemini側の具体例としては、2026年2月にリリースされた **Gemini 3 Deep Think** がGoogle AI Ultraサブスクで利用でき、現行世代の代表例として挙げられます（最終確認：2026-05-16）。各社のモデル並びでの位置づけは[11章](11-gemini-advanced.md)・[13章](13-claude.md)で扱います。
 
 業務での使い分けの目安は、定型作業や下書きには通常モード、複数の条件をたどる検証や厳密な手順の組み立てには推論モード、という分け方です。費用と所要時間が増える分、すべての依頼を推論モードに切り替える必要はありません。
 
@@ -165,3 +165,4 @@ flowchart LR
 - Anthropic「How Claude works」: <https://www.anthropic.com/research>（最終確認：2026-04-24）
 - Google「About large language models」: <https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
 - Google Cloud「What is Generative AI?」: <https://cloud.google.com/use-cases/generative-ai>（最終確認：2026-04-24）
+- Google Blog「Gemini 3 Deep Think: Advancing science, research and engineering」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/>（最終確認：2026-05-16）
