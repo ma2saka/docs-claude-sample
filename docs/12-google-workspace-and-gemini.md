@@ -32,7 +32,7 @@ flowchart LR
 
 同じ星形アイコンでも、入口が違えば会話の材料にできる対象も変わります。Docsなら本文、Gmailなら受信スレッド、Meetなら会議音声、という具合に、アプリで扱う素材がそのまま会話の前提になります。Workspaceサイドパネルの中心的な利点は、開いているファイルをコピー＆ペーストせずそのまま会話の材料として渡せる点です。
 
-## Workspace Intelligence: アプリ横断のsemantic layer
+## Workspace Intelligence: アプリ横断の意味的な層
 
 2026年4月のGoogle Cloud Next 2026で、Workspace向けの新しい仕組みとしてWorkspace Intelligenceが発表されました。Gmail・Docs・Drive・Meet・Chatで扱う素材を、ひとつの意味的な層として横断参照できるようにする位置づけです。アプリごとに別々に置かれていた素材（メール本文、ドキュメント本文、Drive上のファイル、Meetの議事録、Chatのスレッド）を、同じ会話の中でまとめて参照できる構成になっています。
 
