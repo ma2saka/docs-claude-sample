@@ -98,11 +98,11 @@
 
 | プロバイダ／モデル | 呼び方の例 |
 | ---- | ---- |
-| Anthropic（Claude） | extended thinking |
+| Anthropic（Claude） | extended thinking／adaptive thinking（Opus 4.7） |
 | Google（Gemini） | Deep Think（Gemini 3） |
 | OpenAI | `o`系列などの推論モデル |
 
-業界全体としては、推論モデル／思考モードという呼び方が定着しつつあります。記事や社内資料に並ぶ各社の呼称は、いずれも同じ系統の機能を指しており、各社の比較記事もこの対応関係に立って書かれています。Gemini側の世代名については、2026年2月にリリースされたGemini 3 Deep Thinkが現時点の具体例にあたります（最終確認：2026-05-16）。具体的なモデル並びでの位置づけは[11章](11-gemini-advanced.md)・[13章](13-claude.md)で扱います。
+業界全体としては、推論モデル／思考モードという呼び方が定着しつつあります。記事や社内資料に並ぶ各社の呼称は、いずれも同じ系統の機能を指しており、各社の比較記事もこの対応関係に立って書かれています。Gemini側の世代名については、2026年2月にリリースされたGemini 3 Deep Thinkが現時点の具体例にあたります（最終確認：2026-05-16）。Claude側では、2026年4月にGAされたClaude Opus 4.7が現時点の具体例にあたり、`adaptive thinking` の方式に切り替わっています（最終確認：2026-05-16）。具体的なモデル並びでの位置づけは[11章](11-gemini-advanced.md)・[13章](13-claude.md)で扱います。
 
 ## エージェント
 
@@ -147,3 +147,4 @@
 - Anthropic「Models overview」: <https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-24）
 - Google「Gemini models」: <https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
 - Google DeepMind「Gemini 3.1 Deep Think」: <https://deepmind.google/models/gemini/deep-think/>（最終確認：2026-05-16）
+- Anthropic「Adaptive thinking」: <https://docs.claude.com/en/docs/build-with-claude/adaptive-thinking>（最終確認：2026-05-16）
