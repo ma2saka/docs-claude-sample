@@ -121,6 +121,8 @@ sequenceDiagram
 - 入力データが学習に使われるかどうかは、API・ビジネスUI・個人UIのどの経路を使うかで既定値が違う。プランごとに公式ドキュメントを確認する
 - 「学習」と「履歴・メモリの保存」は別問題として扱う。消去すべき対象が変わる
 
+次は[6章（ハルシネーション）](06-hallucination-and-knowledge-literacy.md)で、モデルが「知らないこと」をもっともらしく出力してしまう現象と、その見分け方・対処に進みます。
+
 ## 参考
 
 - Anthropic「Privacy Policy」: <https://www.anthropic.com/legal/privacy>（最終確認：2026-04-24）

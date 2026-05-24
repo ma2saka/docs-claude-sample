@@ -142,6 +142,8 @@
 - プロンプトとコンテキストはセットで定義が決まるため、ペアで参照すると意味の輪郭が安定する
 - トークンは課金・上限のいずれにも基準として使われ、料金と入力サイズの話題で参照される
 
+次は[8章（生成AIでできること 共通編）](08-common-capabilities.md)で、ここまでの用語を前提に、ClaudeとGeminiが共通して提供する能力をチャット・アーティファクト・コネクタの3本柱として整理します。
+
 ## 参考
 
 - Anthropic「Models overview」: <https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-24）
