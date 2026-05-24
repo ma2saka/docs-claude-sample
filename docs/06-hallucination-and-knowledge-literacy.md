@@ -176,6 +176,8 @@ sequenceDiagram
 - 出力の裏取りは利用者の責任であり、対外署名・社内資料・下書き・発想の4階層で配分する
 - 依頼に「根拠の明示／棄権の許容／範囲の限定」を加えると、誤りの発生率を下げられる
 
+次は[7章（用語集）](07-terminology.md)で、ここまでの章に登場した用語の定義を一覧で整理します。
+
 ## 参考
 
 - Anthropic「Claude models overview」: <https://docs.anthropic.com/en/docs/about-claude/models>（最終確認：2026-04-24）
