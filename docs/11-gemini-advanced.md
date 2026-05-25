@@ -6,7 +6,7 @@ Google Workspaceの各アプリ（Docs・Sheets・Gmail・Meet・Slides）から
 
 ## 対象読者と前提
 
-- [1章](01-gemini-in-workspace.md)でGeminiの入口を一度は触り、[8章](08-common-capabilities.md)で「チャット／アーティファクト／コネクタ」の3つの能力に目を通している人
+- [1章](01-gemini-in-workspace.md)でGeminiを一度は試し、[8章](08-common-capabilities.md)で「チャット／アーティファクト／コネクタ」の3つの能力に目を通している人
 - Geminiを業務で何度か利用しており、機能ごとの使い分けの軸を整理したい人
 - ClaudeとGeminiの違いを、機能と制約の両面から把握したい人
 
