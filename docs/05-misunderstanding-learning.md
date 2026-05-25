@@ -6,7 +6,7 @@
 
 ## 対象読者と前提
 
-- [1章](01-gemini-in-workspace.md)・[2章](02-what-is-generative-ai.md)で、生成AIを実際に触り、大まかな仕組みのイメージを持った人
+- [1章](01-gemini-in-workspace.md)・[2章](02-what-is-generative-ai.md)で、生成AIを実際に使い、大まかな仕組みのイメージを持った人
 - [4章](04-external-system-integration.md)で、AIが外部ツールを呼び出す流れを把握した人
 - 未習の用語が出てきた場合は、[7章（用語集）](07-terminology.md)から該当項目を引き直して構いません
 
