@@ -38,6 +38,7 @@
 
 ### 付録
 
+- [Appendix: プロンプトの組み立て方](docs/appendix-prompting.md)
 - [Appendix: ワークフローツール](docs/appendix-workflow-tools.md)
 - [Appendix: デスクトップの自動化](docs/appendix-desktop-automation.md)
 - [Appendix: Claude Code](docs/appendix-claude-code.md)
