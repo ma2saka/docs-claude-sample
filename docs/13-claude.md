@@ -1,6 +1,6 @@
 # 13. Claudeを使いこなそう
 
-本章は、Claude固有の機能と、2026年4月時点で利用者が押さえておきたい論点、Claude側に寄せたほうが進めやすい場面の3点を扱います。取り上げる機能は、Projects、Artifacts、コネクタ、リモートMCPサーバ、メモリ、Claude Coworkの6つです。[8章](08-common-capabilities.md)で整理した「チャット／アーティファクト／コネクタ」の共通骨格に対する、Claude側の具体像にあたる位置づけです。
+本章は、Claude固有の機能と、2026年4月時点で利用者が押さえておきたい論点、Claude側に寄せたほうが進めやすい場面の3点を扱います。取り上げる機能は、Projects、Artifacts、コネクタ、リモートMCPサーバ、Claude Cowork、メモリの6つです。[8章](08-common-capabilities.md)で整理した「チャット／アーティファクト／コネクタ」の共通骨格に対する、Claude側の具体像にあたる位置づけです。
 
 Claude Code（自分のPCで動くClaude）の詳細は[Appendix: Claude Code](appendix-claude-code.md)で別立てに扱います。本章は、ブラウザの`https://claude.ai`とデスクトップアプリ（チャット機能）から呼び出すClaudeを対象にします。
 
