@@ -5,7 +5,7 @@
 ## 対象読者と前提
 
 - [1章](01-gemini-in-workspace.md)のハンズオンで、Docs／Gmailのサイドパネルを一度は試したことがある
-- [8章](08-common-capabilities.md)の「チャット／アーティファクト／コネクタ」の3本柱と、[11章](11-gemini-advanced.md)で扱ったGemini固有機能（Gems・Canvas・マルチモーダル入力・画像生成・動画生成）およびGemini in Chromeにざっと目を通している
+- [8章](08-common-capabilities.md)の3本柱と、[11章](11-gemini-advanced.md)のGemini固有機能（Gems・Canvas・マルチモーダル・画像生成・動画生成・Deep Research）に目を通している
 - Google Workspaceを業務で普段使いしているが、Gemini連携の全体像はまだ断片的にしか試していない
 
 Workspaceの各アプリは月単位でUIが更新されます。本章では画面のどこに何があるかをマニュアル的に並べるのではなく、どの場面で呼び出すと作業が進めやすいかを軸に整理します。ボタンの位置が動いても、場面ごとの使い分けそのものは大きく変わりません。
