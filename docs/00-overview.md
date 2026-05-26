@@ -74,7 +74,7 @@ flowchart TB
 
 付録6本は、本編から少し離れた領域を扱います。並びは、日常業務寄り→開発寄り→技術解説寄りの順です。
 
-- [プロンプトの組み立て方](appendix-prompting.md) — 依頼文の基本形と業務シーン別テンプレート、カスタム指示（Gems・Projects）の書き方、応答の立て直しパターンに加え、長い作業を複数の会話に分けて進めるときの引き継ぎ方
+- [プロンプトの組み立て方](appendix-prompting.md) — 依頼文の基本形と業務シーン別テンプレート、カスタム指示（Gems・Projects）の書き方、渡す情報の判断基準（[9章](09-security-individual.md)との接続）、応答の立て直しパターンに加え、長い作業を複数の会話に分けて進めるときの引き継ぎ方
 - [ワークフローツール](appendix-workflow-tools.md) — ZapierやMake、n8nといったSaaS連携のノーコードツールに生成AIを組み込むときの観点
 - [デスクトップの自動化](appendix-desktop-automation.md) — 自席のPC上で繰り返している手作業を生成AIに任せる選択肢の整理
 - [Claude Code](appendix-claude-code.md) — 利用者のPC上で動くClaude製品の位置づけと、ブラウザ版との違い、最初の利用方針の整理
