@@ -66,15 +66,15 @@ flowchart TB
 
 | 目的 | おすすめ順路 |
 | ---- | ---- |
-| まず使ってみたい | 1章 → 8章 → （関心に応じて11章または13章） |
-| 依頼の出し方を上達させたい | 8章 → 付録「プロンプトの組み立て方」→ 11章または13章 |
-| 社内導入の判断材料がほしい | 2章 → 5章 → 9章 → 10章 |
-| エージェントで自動化を始めたい | 4章 → 7章 → 10章 → 付録「Claude Code」 |
-| 画像・PDF・音声をAIに扱わせたい | 3章 → 8章 → （関心に応じて11章または13章） |
+| まず使ってみたい | [1章](01-gemini-in-workspace.md) → [8章](08-common-capabilities.md) → （関心に応じて[11章](11-gemini-advanced.md)または[13章](13-claude.md)） |
+| 依頼の出し方を上達させたい | [8章](08-common-capabilities.md) → [付録「プロンプトの組み立て方」](appendix-prompting.md) → [11章](11-gemini-advanced.md)または[13章](13-claude.md) |
+| 社内導入の判断材料がほしい | [2章](02-what-is-generative-ai.md) → [5章](05-misunderstanding-learning.md) → [9章](09-security-individual.md) → [10章](10-security-agent-era.md) |
+| エージェントで自動化を始めたい | [4章](04-external-system-integration.md) → [7章](07-terminology.md) → [10章](10-security-agent-era.md) → [付録「Claude Code」](appendix-claude-code.md) |
+| 画像・PDF・音声をAIに扱わせたい | [3章](03-multimodal.md) → [8章](08-common-capabilities.md) → （関心に応じて[11章](11-gemini-advanced.md)または[13章](13-claude.md)） |
 
 付録6本は、本編から少し離れた領域を扱います。並びは、日常業務寄り→開発寄り→技術解説寄りの順です。
 
-- [プロンプトの組み立て方](appendix-prompting.md) — 依頼文の基本形と業務シーン別テンプレートに加え、カスタム指示（Gems・Projects）の書き方と、応答がずれたときの立て直しパターン
+- [プロンプトの組み立て方](appendix-prompting.md) — 依頼文の基本形と業務シーン別テンプレート、カスタム指示（Gems・Projects）の書き方、応答の立て直しパターンに加え、長い作業を複数の会話に分けて進めるときの引き継ぎ方
 - [ワークフローツール](appendix-workflow-tools.md) — ZapierやMake、n8nといったSaaS連携のノーコードツールに生成AIを組み込むときの観点
 - [デスクトップの自動化](appendix-desktop-automation.md) — 自席のPC上で繰り返している手作業を生成AIに任せる選択肢の整理
 - [Claude Code](appendix-claude-code.md) — 利用者のPC上で動くClaude製品の位置づけと、ブラウザ版との違い、最初の運用方針の整理
