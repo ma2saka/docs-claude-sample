@@ -276,6 +276,7 @@ OpusやSonnetでは、回答前に内部で長めに考える `extended thinking
 
 ClaudeとGeminiの使い分け早見表は[8章](08-common-capabilities.md)に集約してあります。本章では、Claude側に寄せたほうが進めやすい場面だけを補足します。
 
+- 会話の途中でWeb上の最新情報を補いたい場合 — Web検索が会話の流れの中でその都度検索結果を参照し、ソースURL付きで応答する
 - Workspaceの外側のSaaSを材料にしたい場合 — Slack・Notion・HubSpotなど、本章で挙げた公式コネクタが利用できる
 - 社内の独自ツールを連携させたい場合 — 本章で扱ったリモートMCPサーバを自前で登録できる
 - 動くプレビューを外部に見せたい場合 — Artifactsの公開リンクをそのまま共有手段として使える
