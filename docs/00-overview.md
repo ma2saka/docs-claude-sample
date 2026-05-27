@@ -66,11 +66,12 @@ flowchart TB
 
 | 目的 | おすすめ順路 |
 | ---- | ---- |
-| まず使ってみたい | [1章](01-gemini-in-workspace.md) → [8章](08-common-capabilities.md) → （関心に応じて[11章](11-gemini-advanced.md)または[13章](13-claude.md)） |
-| 依頼の出し方を上達させたい | [8章](08-common-capabilities.md) → [付録「プロンプトの組み立て方」](appendix-prompting.md) → [11章](11-gemini-advanced.md)または[13章](13-claude.md) |
+| まず使ってみたい | [1章](01-gemini-in-workspace.md) → [8章](08-common-capabilities.md) → （Geminiなら[11章](11-gemini-advanced.md)・[12章](12-google-workspace-and-gemini.md)、Claudeなら[13章](13-claude.md)） |
+| 依頼の出し方を上達させたい | [8章](08-common-capabilities.md) → [付録「プロンプトの組み立て方」](appendix-prompting.md) → （Geminiなら[11章](11-gemini-advanced.md)・[12章](12-google-workspace-and-gemini.md)、Claudeなら[13章](13-claude.md)） |
+| WorkspaceのアプリでGeminiを活かしたい | [1章](01-gemini-in-workspace.md) → [8章](08-common-capabilities.md) → [11章](11-gemini-advanced.md) → [12章](12-google-workspace-and-gemini.md) |
 | 社内導入の判断材料がほしい | [2章](02-what-is-generative-ai.md) → [5章](05-misunderstanding-learning.md) → [9章](09-security-individual.md) → [10章](10-security-agent-era.md) |
 | エージェントで自動化を始めたい | [4章](04-external-system-integration.md) → [7章](07-terminology.md) → [10章](10-security-agent-era.md) → [付録「Claude Code」](appendix-claude-code.md) |
-| 画像・PDF・音声をAIに扱わせたい | [3章](03-multimodal.md) → [8章](08-common-capabilities.md) → （関心に応じて[11章](11-gemini-advanced.md)または[13章](13-claude.md)） |
+| 画像・PDF・音声をAIに扱わせたい | [3章](03-multimodal.md) → [8章](08-common-capabilities.md) → （Geminiなら[11章](11-gemini-advanced.md)・[12章](12-google-workspace-and-gemini.md)、Claudeなら[13章](13-claude.md)） |
 
 付録6本は、本編から少し離れた領域を扱います。並びは、日常業務寄り→開発寄り→技術解説寄りの順です。
 
