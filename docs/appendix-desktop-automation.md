@@ -35,7 +35,7 @@ flowchart LR
 | ---- | ---- | ---- |
 | ランチャー・ショートカット型 | 既存の自動化フローの一部のステップ | macOSショートカット、Raycast、Alfred、Power Automate Desktop |
 | 画面操作エージェント型 | 画面解釈とマウス・キーボード操作の全体 | Anthropic「Computer Use」、OpenAI「Operator」、Microsoft「Copilot Actions」 |
-| スクリプト生成・実行型 | スクリプトの作成と、PC上での実行 | Claude Code、ローカルLLM＋シェル、`pyautogui`系の生成 |
+| スクリプト生成・実行型 | スクリプトの作成と、PC上での実行 | Claude Code、[ローカルLLM](appendix-local-llm.md)＋シェル、`pyautogui`系の生成 |
 
 3者の違いは、自動化フローを組み立てる主体（人かAI）と、操作経路（画面の直接操作 / ファイルやコマンド経由）の2軸に整理できます。次節以降で、それぞれの中身と向き不向きを順に見ていきます。
 
