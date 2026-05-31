@@ -11,6 +11,7 @@
 ## 対象読者と前提
 
 - [8章](08-common-capabilities.md)で生成AIの共通的な使い方を把握した人
+- [5章](05-misunderstanding-learning.md)のファインチューニング節で、提供事業者のクラウドではなく自社内や手元のPCでモデルを動かす選択肢に触れた人
 - [9章「個人利用編」](09-security-individual.md)と[10章「エージェント時代のガバナンス」](10-security-agent-era.md)で、入力データの扱いとガバナンスの観点を確認した人
 - ChatGPT・Gemini・Claudeなどのクラウド型サービスを一通り使ったうえで、別の選択肢の存在も知っておきたい人
 
@@ -75,6 +76,8 @@ flowchart LR
 GUIの操作性で選ぶならLM Studio、他のアプリへの組み込みやすさで選ぶならOllama、というのが現状の使い分けです。どちらもOpenAI互換のAPIエンドポイントを公開する機能を備えており、別のアプリから呼び出すときの接続は揃っています。
 
 このほか、ブラウザベースのOpen WebUI（Ollamaなどをバックエンドに使うチャットUI）や、Electron製のJan（オフライン優先のチャットアプリ）も選択肢に入ります。社内の複数人で同じ推論サーバを共有する構成では、Open WebUIを選ぶ場面が増えました。
+
+OllamaやLM StudioのOpenAI互換APIエンドポイントは、自席のPC上のスクリプトや、SaaS連携ツール側のLLMノードからモデルの呼び出し先として参照する構成でも利用できます。スクリプトに組み込むパターンは[Appendix: デスクトップの自動化](appendix-desktop-automation.md)の「スクリプト生成・実行型」節で扱っています。ワークフローツールのLLMノードから呼び出すパターンは[Appendix: ワークフローツール](appendix-workflow-tools.md)の「OSS／セルフホスト型」節のn8nで扱っています。
 
 ### 画像生成系
 
