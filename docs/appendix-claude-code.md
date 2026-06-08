@@ -92,6 +92,8 @@ Claude Codeを少し深く利用したくなった場面で目にする用語の
 
 ひとつの会話の中で「コードを読む担当」「テストを実行する担当」のように、役割を限定したClaude Codeを呼び出せる仕組みです。[7章](07-terminology.md)で扱ったエージェントの考え方を、Claude Code側で構成したものに当たります。
 
+2026年5月にGAした **Opus 4.8** では、大きめの作業を計画してから多数のサブエージェントを並列で動かす **Dynamic workflows**（リサーチプレビュー）が加わりました。一度に多くの工程を任せられる一方、並列分のトークンを消費するため、まずは小さな依頼で挙動を確かめてから範囲を広げる進め方が無難です（最終確認：2026-06-08）。
+
 ### MCPサーバ
 
 MCPはModel Context Protocolの略で、[4章](04-external-system-integration.md)で扱ったツール呼び出しを共通化したプロトコルです。連携先ごとにMCPサーバを用意しておくと、Claude Codeから同じ作法でアクセスできます。
@@ -151,6 +153,7 @@ CLIやMCPといった語感が前に立ちますが、Claude Codeは利用者の
 - Anthropic「Claude Code quickstart」: <https://docs.claude.com/en/docs/claude-code/quickstart>（最終確認：2026-04-24）
 - Anthropic「Claude Code on the web」: <https://code.claude.com/docs/en/claude-code-on-the-web>（最終確認：2026-05-26）
 - Anthropic「Model Context Protocol」: <https://modelcontextprotocol.io/>（最終確認：2026-04-24）
+- Anthropic「Introducing Claude Opus 4.8」: <https://www.anthropic.com/news/claude-opus-4-8>（最終確認：2026-06-08）
 <!-- textlint-disable prh -->
 - GitHub「anthropics/claude-code」: <https://github.com/anthropics/claude-code>（最終確認：2026-04-24）
 <!-- textlint-enable prh -->
