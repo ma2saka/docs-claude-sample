@@ -130,6 +130,22 @@ flowchart LR
 
 業務での使い分けの目安は、定型作業や下書きには通常モード、複数の条件をたどる検証や厳密な手順の組み立てには推論モード、という分け方です。費用と所要時間が増える分、すべての依頼を推論モードに切り替える必要はありません。
 
+## 拡散型の言語モデルは、文章全体を並列に仕上げて速度を上げる
+
+ここまで扱ってきた「次のトークンを1個ずつ確率で選ぶ」生成方式は、**自己回帰型**（autoregressive）と呼ばれます。現行の主要なLLMはこの方式ですが、2025年以降、別の生成方式である**拡散型**（diffusion language model）のモデルが実用段階に入りつつあります。
+
+拡散型は、文章をノイズ（でたらめな単語列）で埋めた状態から始め、全体を数ステップかけて一斉に洗練させて完成形に近づけます。1語ずつ書き進める書き手に対して、下書き全体を一度に推敲する編集者にあたる方式です（書き手→自己回帰型、編集者→拡散型）。前のトークンを待たずにブロック単位で並列処理できるため、生成速度を上げやすい性質があります。
+
+具体例を3つ挙げます（最終確認：2026-06-11）。
+
+- Google DeepMindのGemini Diffusion — 2025年5月に発表された実験的モデル。2026年6月時点でも限定テスター向けの研究段階にある
+- GoogleのDiffusionGemma — Gemma 4系列をベースにした拡散型のオープンモデル。2026年6月に公開され、同条件の自己回帰型と比べて約4倍の生成速度が公式に示されている
+- Inception LabsのMercuryシリーズ — 商用の拡散型モデルとしてAPI経由で提供されている
+
+速度の代わりに品質面のトレードオフがあり、DiffusionGemmaでは数学・コーディング・専門知識などの項目で標準のGemma 4に及ばないことが公式に示されています。また、生成を速くする取り組みは方式の転換だけではありません。自己回帰型のまま、推論エンジンの最適化や高速設定（ClaudeのOpus系に用意されたファストモードなど）で応答速度を上げる経路も並行して進んでいます。
+
+利用者がチャット画面の裏側の生成方式を意識する場面は多くありません。押さえておきたいのは、「精度の高い重量級」と「応答の速い軽量級」の間の選択肢が、方式の面からも広がりつつあるという流れです。モデルの段構成での位置づけは[8章](08-common-capabilities.md)で扱います。
+
 ## 得意・苦手は仕組みから直接導ける
 
 ここまでの内容を踏まえると、得意な作業と苦手な作業の傾向は、仕組みから直接導けます。
@@ -167,3 +183,6 @@ flowchart LR
 - Google Cloud「What is Generative AI?」: <https://cloud.google.com/use-cases/generative-ai>（最終確認：2026-04-24）
 - Google Blog「Gemini 3 Deep Think: Advancing science, research and engineering」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/>（最終確認：2026-05-16）
 - Anthropic「Adaptive thinking」: <https://docs.claude.com/en/docs/build-with-claude/adaptive-thinking>（最終確認：2026-05-16）
+- Google Blog「DiffusionGemma: 4x faster text generation」: <https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/>（最終確認：2026-06-11）
+- Google DeepMind「Gemini Diffusion」: <https://deepmind.google/models/gemini-diffusion/>（最終確認：2026-06-11）
+- Inception Labs「Introducing Mercury」: <https://www.inceptionlabs.ai/blog/introducing-mercury>（最終確認：2026-06-11）
