@@ -149,6 +149,8 @@ flowchart TD
 
 [5章](05-misunderstanding-learning.md)で整理したとおり、この3つはいずれもモデル本体の重みには反映されません。その意味で「学習されていない」は正しい説明ですが、自分が渡したメモと会話がサービス側に残ること自体は変わりません。
 
+3行目の「サービス提供者側のログ」は、保持期間の既定値自体が固定ではない領域です。プロバイダの規約改定で変わるほか（5章で扱った2025年のAnthropicの例では、学習利用への同意の有無で保持期間が30日と最大5年に分かれます）、法的手続きで動く場合もあります。2025年には、OpenAIが著作権訴訟に伴う裁判所命令により、削除済みの会話を含むログの保持を一時的に義務づけられた事例がありました（同年9月に通常の運用へ復帰。最終確認：2026-06-11）。利用者が画面上で削除しても、提供者側のログが同じタイミングで消えるとは限らない、という表の整理の具体的な背景にあたります。
+
 ### 節目で実施する3つの手順
 
 毎回点検する必要はありません。次の3つを節目で実施しておけば、残ったまま放置される時間を短くできます。
@@ -233,6 +235,8 @@ flowchart TD
 
 - Anthropic「Privacy Policy」: <https://www.anthropic.com/legal/privacy>（最終確認：2026-04-24）
 - Anthropic「Usage Policies」: <https://www.anthropic.com/legal/aup>（最終確認：2026-04-24）
+- Anthropic「Updates to Consumer Terms and Privacy Policy」: <https://www.anthropic.com/news/updates-to-our-consumer-terms>（最終確認：2026-06-11）
+- OpenAI「Response to NYT data demands」: <https://openai.com/index/response-to-nyt-data-demands/>（最終確認：2026-06-11）
 - Google「Gemini Apps Privacy Hub」: <https://support.google.com/gemini/answer/13594961>（最終確認：2026-04-24）
 - Google Workspace「Generative AIとGoogle Workspaceデータ」: <https://support.google.com/a/answer/15706919>（最終確認：2026-04-24）
 - 個人情報保護委員会「生成AIサービスの利用に関する注意喚起等」: <https://www.ppc.go.jp/news/press/2023/230602_AI_utilize_alert/>（最終確認：2026-04-24）

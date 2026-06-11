@@ -86,6 +86,15 @@ sequenceDiagram
 
 「多い」「場合がある」とぼかして書いているのは、各社・各プランで扱いが分かれ、バージョンによっても変わる領域だからです。社内で利用する前には、該当プランの公式ドキュメントを一次ソースとして確認します。
 
+### 既定値そのものが、方針改定で動く
+
+上の表の既定値は固定ではなく、プロバイダの規約改定で実際に動いています。直近の代表例を2つ挙げます（最終確認：2026-06-11）。
+
+- Anthropicは2025年8月に個人向けプラン（Free／Pro／Max）の規約を改定し、チャット内容を既定でモデル改善に利用する方式（オプトアウト方式）へ切り替えた。利用に同意した場合のデータ保持期間は最大5年、オプトアウトした場合は30日となる。Team／EnterpriseなどのClaude for WorkとAPI経由はこの改定の対象外である
+- OpenAIのChatGPTは、個人向けプランでは会話をモデル改善に利用する設定（Improve the model for everyone）が既定でオンになっている。設定のData Controlsからオフにでき、Business／Enterprise／API経由は既定で学習に利用されない
+
+どちらの例でも、個人向けの既定値が動く一方で、ビジネス向けとAPIの「学習に使わない」既定は維持されています。この章の整理（経路で既定値が違う）は変わりませんが、個人向けの既定値を一度確認したきりで恒久の前提として扱うと、改定を取りこぼします。規約改定はメールやアプリ内の通知で告知されるため、個人アカウントを業務の検証などに使っている場合は、通知を読み流さずに設定画面を確認し直す対応が要点になります。
+
 実務上の対応は、経路ごとに次のように整理できます。
 
 - 個人のGeminiアカウントや無料Claudeで社外秘情報を入力する前に、利用規約とデータ取り扱いページを確認する
@@ -129,5 +138,7 @@ sequenceDiagram
 
 - Anthropic「Privacy Policy」: <https://www.anthropic.com/legal/privacy>（最終確認：2026-04-24）
 - Anthropic「Usage Policies」: <https://www.anthropic.com/legal/aup>（最終確認：2026-04-24）
+- Anthropic「Updates to Consumer Terms and Privacy Policy」: <https://www.anthropic.com/news/updates-to-our-consumer-terms>（最終確認：2026-06-11）
+- OpenAI「How your data is used to improve model performance」: <https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance>（最終確認：2026-06-11）
 - Google「Gemini Apps Privacy Hub」: <https://support.google.com/gemini/answer/13594961>（最終確認：2026-04-24）
 - Google Cloud「Generative AI and data governance」: <https://cloud.google.com/vertex-ai/generative-ai/docs/data-governance>（最終確認：2026-04-24）
