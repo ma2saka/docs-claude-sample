@@ -1,6 +1,6 @@
 # 11. Geminiを使いこなそう
 
-本章は、Gemini固有の機能と、2026年春時点で利用者が押さえておきたい制約、Gemini側に寄せたほうが進めやすい場面の3点を扱います。取り上げる機能は、Gems、保存済み情報、Canvas、マルチモーダル入力、画像生成（Imagen）、動画生成（Veo）、Deep Research、Gemini Liveの8つです。加えて、Chromeブラウザに組み込まれた呼び出し口であるGemini in Chromeも扱います。[8章](08-common-capabilities.md)で整理した「チャット／アーティファクト／コネクタ」の共通骨格に対する、Gemini側の具体像にあたる位置づけです。
+本章は、Gemini固有の機能と、2026年5月時点で利用者が押さえておきたい制約、Gemini側に寄せたほうが進めやすい場面の3点を扱います。取り上げる機能は、Gems、保存済み情報、Canvas、マルチモーダル入力、画像生成（Imagen）、動画生成（Veo）、Deep Research、Gemini Liveの8つです。加えて、Chromeブラウザに組み込まれた呼び出し口であるGemini in Chromeも扱います。[8章](08-common-capabilities.md)で整理した「チャット／アーティファクト／コネクタ」の共通骨格に対する、Gemini側の具体像にあたる位置づけです。
 
 Google Workspaceの各アプリ（Docs・Sheets・Gmail・Meet・Slides）から呼び出すGemini統合は[12章](12-google-workspace-and-gemini.md)で別立てに扱います。本章はGeminiアプリ（`gemini.google.com`）、Workspaceアプリ右上のサイドパネル、およびChromeブラウザに組み込まれたGemini in Chromeから呼び出すGemini単体を対象にします。
 
