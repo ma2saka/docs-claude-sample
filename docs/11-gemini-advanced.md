@@ -310,5 +310,4 @@ Workspace外部のSaaS連携やMCPの自由な追加については、[13章（C
 - Google「自動ブラウジングを利用してタスク完了をGemini in Chromeに依頼する」: <https://support.google.com/chrome/answer/16821166?hl=ja>（最終確認：2026-05-01）
 - Google「Gemini in Chrome（Chrome Enterprise and Educationヘルプ）」: <https://support.google.com/chrome/a/answer/16291696?hl=ja>（最終確認：2026-05-01）
 - Google Workspace Updates「Gemini in Chrome expands to more countries and languages」: <https://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html>（最終確認：2026-05-01）
-- Google Blog「Gemini 3.1 Pro: A smarter model for your most complex tasks」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/>（最終確認：2026-06-11）
 - Google DeepMind「Gemini 3.1 Deep Think」: <https://deepmind.google/models/gemini/deep-think/>（最終確認：2026-06-11）

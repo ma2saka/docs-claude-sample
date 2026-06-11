@@ -166,5 +166,4 @@ flowchart LR
 - Google「About large language models」: <https://ai.google.dev/gemini-api/docs/models>（最終確認：2026-04-24）
 - Google Cloud「What is Generative AI?」: <https://cloud.google.com/use-cases/generative-ai>（最終確認：2026-04-24）
 - Google DeepMind「Gemini 3.1 Deep Think」: <https://deepmind.google/models/gemini/deep-think/>（最終確認：2026-06-11）
-- Google Blog「Gemini 3.1 Pro: A smarter model for your most complex tasks」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/>（最終確認：2026-06-11）
 - Anthropic「Adaptive thinking」: <https://docs.claude.com/en/docs/build-with-claude/adaptive-thinking>（最終確認：2026-05-16）
