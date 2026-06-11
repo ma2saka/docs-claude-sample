@@ -173,7 +173,7 @@ Deep Researchは、個人向けの**Google AI Ultra**サブスク、および**G
 
 ## Pro／Flashの並びの中でDeep Thinkを選べる
 
-[8章](08-common-capabilities.md)では、両サービスに共通する軽量・標準・重量級の3段構造を整理しました。Geminiでは現時点で、応答までの時間が短いFlash系と、難問の精度を引き上げるPro系という形でモデルが並びます。さらに、回答前に内部で長めに考える**Deep Think**を選択できる場面が用意されています。2026年2月にリリースされた **Gemini 3 Deep Think** がDeep Thinkの現行世代にあたり、Pro／Flashと並ぶ形で、思考量を多めに取る選択肢として加わります。Gemini 3 Deep Thinkは個人向けの **Google AI Ultra** サブスクで利用できます。Workspaceの標準プランで扱えるGemini Pro／Flash系統とは、利用範囲が分かれています（最終確認：2026-05-16）。多段の数学・コード生成・厳密な手順の組み立てといった題材で精度が上がりやすい一方、応答時間と費用は通常の応答より増えます（推論モード／思考モードの位置づけは[2章](02-what-is-generative-ai.md)・[7章](07-terminology.md)を参照してください）。利用可否はプランやUIによって異なるため、参考欄の公式ヘルプで都度確認してください。
+[8章](08-common-capabilities.md)では、両サービスに共通する軽量・標準・重量級の3段構造を整理しました。Geminiでは現時点で、応答までの時間が短いFlash系と、難問の精度を引き上げるPro系という形でモデルが並びます。さらに、回答前に内部で長めに考える**Deep Think**を選択できる場面が用意されています。2026年3月にリリースされた **Gemini 3.1 Deep Think** がDeep Thinkの現行世代にあたり、Pro／Flashと並ぶ形で、思考量を多めに取る選択肢として加わります。Gemini 3.1 Deep Thinkは個人向けの **Google AI Ultra** サブスクで利用できます。Workspaceの標準プランで扱えるGemini Pro／Flash系統とは、利用範囲が分かれています（最終確認：2026-06-11）。多段の数学・コード生成・厳密な手順の組み立てといった題材で精度が上がりやすい一方、応答時間と費用は通常の応答より増えます（推論モード／思考モードの位置づけは[2章](02-what-is-generative-ai.md)・[7章](07-terminology.md)を参照してください）。利用可否はプランやUIによって異なるため、参考欄の公式ヘルプで都度確認してください。
 
 ## Gemini Liveは音声で会話を進める対話モード
 
@@ -310,5 +310,5 @@ Workspace外部のSaaS連携やMCPの自由な追加については、[13章（C
 - Google「自動ブラウジングを利用してタスク完了をGemini in Chromeに依頼する」: <https://support.google.com/chrome/answer/16821166?hl=ja>（最終確認：2026-05-01）
 - Google「Gemini in Chrome（Chrome Enterprise and Educationヘルプ）」: <https://support.google.com/chrome/a/answer/16291696?hl=ja>（最終確認：2026-05-01）
 - Google Workspace Updates「Gemini in Chrome expands to more countries and languages」: <https://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html>（最終確認：2026-05-01）
-- Google Blog「Gemini 3 Deep Think: Advancing science, research and engineering」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/>（最終確認：2026-05-16）
-- Google DeepMind「Gemini 3.1 Deep Think」: <https://deepmind.google/models/gemini/deep-think/>（最終確認：2026-05-16）
+- Google Blog「Gemini 3.1 Pro: A smarter model for your most complex tasks」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/>（最終確認：2026-06-11）
+- Google DeepMind「Gemini 3.1 Deep Think」: <https://deepmind.google/models/gemini/deep-think/>（最終確認：2026-06-11）
