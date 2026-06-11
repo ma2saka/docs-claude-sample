@@ -58,7 +58,7 @@ Google Workspaceを日常の業務環境としている場合は、上記3タイ
 
 Workspace Studioは、本付録の3タイプのうちSaaS連携ハブ型に近い性格を持ちます。ただし、Workspaceドメイン内の素材を明示的なコネクタ設定なしに参照できる点（[12章](12-google-workspace-and-gemini.md)のWorkspace Intelligence節を参照）で、汎用のハブ型とは前提が異なります。Workspaceの中で閉じる自動化にはWorkspace Studio、Workspaceの外側のSaaSも横断する自動化にはZapierやMakeといった使い分けが、現時点での目安です。
 
-本ドキュメント執筆時点ではロールアウト中で、利用可否はWorkspaceプランによります。セットアップの詳細は[12章のWorkspace Studio節](12-google-workspace-and-gemini.md)で扱っています（最終確認：2026-05-16）。
+2026年6月にRapid Release・Scheduled Releaseの両ドメインへフルロールアウトが開始され、一般提供（GA）の段階に入っています。利用可否はWorkspaceプランによります。セットアップの詳細は[12章のWorkspace Studio節](12-google-workspace-and-gemini.md)で扱っています（最終確認：2026-06-11）。
 
 ## 生成AIの差し込み方はノード・司令塔・自走の3パターン
 
@@ -146,3 +146,4 @@ flowchart TD
 - n8n「AI & LangChainノード」: <https://docs.n8n.io/advanced-ai/>（最終確認：2026-04-24）
 - Dify「ドキュメント」: <https://docs.dify.ai/>（最終確認：2026-04-24）
 - Google Workspace Blog「Introducing Google Workspace Studio」: <https://workspace.google.com/blog/product-announcements/introducing-google-workspace-studio-agents-for-everyday-work>（最終確認：2026-05-16）
+- Google Workspace Updates「Workspace Studio now available」: <https://workspaceupdates.googleblog.com/2025/12/workspace-studio.html>（最終確認：2026-06-11）
