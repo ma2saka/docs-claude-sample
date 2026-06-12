@@ -95,6 +95,12 @@ function sortedEntries(map) {
   return [...map.entries()].sort((a, b) => b[1] - a[1]);
 }
 
+function appendTo(map, key, value) {
+  const arr = map.get(key) ?? [];
+  arr.push(value);
+  map.set(key, arr);
+}
+
 // ---- 解析 -------------------------------------------------------------
 
 const crossWordTotal = new Map(); // 語 → 合計回数
@@ -150,9 +156,9 @@ for (const file of files) {
     if (ss.length === 0) continue;
     const op = ss[0].slice(0, OPENER_LEN);
     const cl = ss[ss.length - 1].slice(-CLOSER_LEN);
-    (openers.get(op) ?? openers.set(op, []).get(op)).push(sec.title);
+    appendTo(openers, op, sec.title);
     if (!/[0-9０-９]/.test(cl)) {
-      (closers.get(cl) ?? closers.set(cl, []).get(cl)).push(sec.title);
+      appendTo(closers, cl, sec.title);
     }
   }
   for (const [op, titles] of openers) {
