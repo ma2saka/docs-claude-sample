@@ -31,6 +31,19 @@
 
 組織側のルールが厳しく見える場面では、上の表のどの観点が動機になっているかを当てはめると、ルールの動機を観点ごとに対応づけられます。止められているのは特定の人ではなく、想定外の挙動の起点になりやすい経路です。動機の対応づけが揃っていれば、「この経路ならよいですか」と、代替案を相談する形で組織側と話を進められます。
 
+### 同じモデルでも、契約経路は1つではない
+
+表の1行目「契約・プラン」で近年大きく動いたのが、契約経路の多様化です。同じプロバイダの同じモデルを、複数の経路で契約できる状態が広がりました（最終確認：2026-06-11）。
+
+- Claudeの経路 — Anthropic直販のほか、AWS経由、Google Cloud経由、Microsoft Foundry経由がある
+- AWS経由はさらに2系統 — Anthropic運営・AWS請求のClaude Platform on AWSと、AWS運営のAmazon Bedrockに分かれる
+- OpenAIのモデル — 2025年10月の資本・提携関係の再編で、Microsoft Azureによる独占が終了した。直接契約に加えて、Microsoft Foundry（旧Azure OpenAI Service）やAmazon Bedrock経由でも提供される
+- MicrosoftのCopilot — OpenAIのモデル専用ではなくなり、ClaudeやMicrosoft自社開発のモデルを選べる構成へ変わっている
+
+利用者の目線で押さえたいのは、経路ごとに契約の相手方・データを処理する主体・保持の設定・利用できる機能の範囲が変わる、という点です。たとえば同じClaudeでも、Amazon Bedrock経由ではデータがAWSの管理境界の内側で処理される一方、Claude Platform on AWS経由では推論はAnthropic側の基盤で処理されます。同じクラウドのカタログに並ぶモデルどうしでも、処理主体が異なる場合はあります。契約とデータ取扱は「経路×モデル」の単位で確認するのが確実です。
+
+組織が「この画面から」「この契約で」と経路を指定する背景には、表で整理した契約・データ・監査の観点が、この経路差にそのまま対応している事情があります。利用者の手元では、自分が使っている画面やAPIがどの経路の契約に乗っているかを把握しておくと、データの行き先の確認や、トラブル時の相談先の特定がかみ合います。
+
 ### 社内ガイドラインとは3点で付き合う
 
 多くの組織で、生成AI向けの社内ガイドラインが整備されつつあります。利用者の側で押さえておきたいのは、次の3点です。
@@ -216,6 +229,11 @@ sequenceDiagram
 
 - Anthropic「Model Context Protocol」: <https://modelcontextprotocol.io/>（最終確認：2026-04-24）
 - Anthropic「Claude Code security」: <https://docs.claude.com/en/docs/claude-code/security>（最終確認：2026-04-24）
+- Anthropic「Claude Platform on AWS」: <https://platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws>（最終確認：2026-06-11）
+- Anthropic「Claude in Amazon Bedrock」: <https://platform.claude.com/docs/en/build-with-claude/claude-in-amazon-bedrock>（最終確認：2026-06-11）
+- OpenAI「The next chapter of the Microsoft–OpenAI partnership」: <https://openai.com/index/next-chapter-of-microsoft-openai-partnership/>（最終確認：2026-06-11）
+- AWS「OpenAI models and Codex now generally available in Amazon Bedrock」: <https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/>（最終確認：2026-06-11）
+- Microsoft Learn「Data, privacy, and security for Microsoft Foundry Models」: <https://learn.microsoft.com/en-us/azure/foundry/responsible-ai/openai/data-privacy>（最終確認：2026-06-11）
 - OWASP「Top 10 for Large Language Model Applications」: <https://genai.owasp.org/llm-top-10/>（最終確認：2026-04-24）
 - NIST「AI Risk Management Framework (AI RMF 1.0)」: <https://www.nist.gov/itl/ai-risk-management-framework>（最終確認：2026-04-24）
 - 総務省・経済産業省「AI事業者ガイドライン」: <https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/>（最終確認：2026-04-24）
