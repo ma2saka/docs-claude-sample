@@ -345,11 +345,12 @@ Workspace外部のSaaS連携やMCPの自由な追加については、[13章（C
 - Google「自動ブラウジングを利用してタスク完了をGemini in Chromeに依頼する」: <https://support.google.com/chrome/answer/16821166?hl=ja>（最終確認：2026-05-01）
 - Google「Gemini in Chrome（Chrome Enterprise and Educationヘルプ）」: <https://support.google.com/chrome/a/answer/16291696?hl=ja>（最終確認：2026-05-01）
 - Google Workspace Updates「Gemini in Chrome expands to more countries and languages」: <https://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html>（最終確認：2026-05-01）
-- Google「Chrome AI Innovations」: <https://www.google.com/chrome/ai-innovations/>（最終確認：2026-06-12）
 - Chrome for Developers「Built-in AI APIs」: <https://developer.chrome.com/docs/ai/built-in-apis>（最終確認：2026-06-12）
 - Chrome for Developers「Get started with built-in AI」: <https://developer.chrome.com/docs/ai/get-started>（最終確認：2026-06-12）
 - Chrome for Developers「Expanding built-in AI to more devices」: <https://developer.chrome.com/blog/gemini-nano-cpu-support>（最終確認：2026-06-12）
 - Google「AIを使用して閲覧履歴を検索する」: <https://support.google.com/chrome/answer/15305774?hl=ja>（最終確認：2026-06-12）
 - Google「Chromeの文章作成サポートを使用する」: <https://support.google.com/chrome/answer/14582048?hl=ja>（最終確認：2026-06-12）
+- Google「タブの整理機能（Chrome Enterprise and Educationヘルプ）」: <https://support.google.com/chrome/a/answer/14534722?hl=ja>（最終確認：2026-06-12）
+- Google「AIでChromeのテーマをカスタマイズする」: <https://support.google.com/chrome/answer/14516713?hl=ja>（最終確認：2026-06-12）
 - Google Blog「Gemini 3 Deep Think: Advancing science, research and engineering」: <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/>（最終確認：2026-05-16）
 - Google DeepMind「Gemini 3.1 Deep Think」: <https://deepmind.google/models/gemini/deep-think/>（最終確認：2026-05-16）
