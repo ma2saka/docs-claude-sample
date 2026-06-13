@@ -14,7 +14,7 @@ Claude Code（自分のPCで動くClaude）の詳細は[Appendix: Claude Code](a
 
 ## Claudeを初めて使うときは、ブラウザでアカウントを作って会話を試す
 
-[1章](01-gemini-in-workspace.md)ではGeminiを入口としてハンズオンを進めました。Claudeをまだ使っていない場合は、本章の機能解説へ入る前に、同じ要領で短い会話を数回試しておきます。
+[1章](01-gemini-in-workspace.md)ではGeminiを最初に試す形でハンズオンを進めました。Claudeをまだ使っていない場合は、本章の機能解説へ入る前に、同じ要領で短い会話を数回試しておきます。
 
 手順は次のとおりです。
 
