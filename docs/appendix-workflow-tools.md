@@ -106,7 +106,7 @@ flowchart TD
 
 「いきなりエージェント的自走から始める」分岐をフローに含めていないのは意図したものです。自走型は、ノード型と司令塔型で使い方の作法を整えてから順番に追加する形のほうが、副作用を制御しやすくなります。
 
-自動化の対象によっては、本付録の3タイプの外側に道があります。Workspaceアプリ内で完結する作業は、前節で触れたWorkspace Studioが視野に入ります。自分のPC上のアプリ操作・ファイル整理に寄る作業は、画面操作型の経路を[Appendix: デスクトップの自動化](appendix-desktop-automation.md)で案内します。自然言語の指示でローカルのファイル読み書きとコマンド実行までまかなう構成は[Appendix: Claude Code](appendix-claude-code.md)で扱います。
+自動化の対象によっては、本付録の3タイプの外側にも検討対象が広がります。Workspaceアプリ内で完結する作業は、前節で触れたWorkspace Studioが視野に入ります。自分のPC上のアプリ操作・ファイル整理に寄る作業は、画面操作型の経路を[Appendix: デスクトップの自動化](appendix-desktop-automation.md)で案内します。自然言語の指示でローカルのファイル読み書きとコマンド実行までまかなう構成は[Appendix: Claude Code](appendix-claude-code.md)で扱います。
 
 ## よくある失敗パターンと対策
 
