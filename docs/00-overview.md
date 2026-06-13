@@ -79,10 +79,10 @@ flowchart TB
 
 - [プロンプトの組み立て方](appendix-prompting.md) — 依頼文の基本形と業務テンプレート、カスタム指示（Gems・Projects）の書き方、渡す情報の判断基準（[9章](09-security-individual.md)との接続）、応答の立て直し、音声での依頼パターン、長い会話の分割と引き継ぎ
 - [ワークフローツール](appendix-workflow-tools.md) — ZapierやMake、n8nといったSaaS連携のノーコードツールに生成AIを組み込むときの観点
-- [デスクトップの自動化](appendix-desktop-automation.md) — 自席のPC上で繰り返している手作業を生成AIに任せる選択肢の整理
-- [Claude Code](appendix-claude-code.md) — 利用者のPC上で動くClaude製品の位置づけと、ブラウザ版との違い、最初の利用方針の整理
-- [拡張検索と埋め込み検索](appendix-retrieval-and-embeddings.md) — RAG・Embedding・ベクトル検索・グラウンディングといった用語と仕組みの整理。社内文書をAIに検索させたい場面や、ベンダー提案に含まれるこれらの用語を読み解く場面で参照
-- [ローカルLLM](appendix-local-llm.md) — 提供事業者のクラウド以外で生成AIを動かす選択肢と、検討の動機の整理
+- [デスクトップの自動化](appendix-desktop-automation.md) — 自席のPC上で繰り返している手作業を生成AIに任せる選択肢
+- [Claude Code](appendix-claude-code.md) — 利用者のPC上で動くClaude製品の位置づけと、ブラウザ版との違い、最初の利用方針
+- [拡張検索と埋め込み検索](appendix-retrieval-and-embeddings.md) — RAG・Embedding・ベクトル検索・グラウンディングといった用語と仕組み。社内文書をAIに検索させたい場面や、ベンダー提案に含まれるこれらの用語を読み解く場面で参照
+- [ローカルLLM](appendix-local-llm.md) — 提供事業者のクラウド以外で生成AIを動かす選択肢と、検討の動機
 
 本編を読み終えたあと、必要になったタイミングで参照する想定です。
 
