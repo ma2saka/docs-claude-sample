@@ -173,7 +173,7 @@ Deep Researchは、個人向けの**Google AI Ultra**サブスク、および**G
 
 ## Pro／Flashの並びの中でDeep Thinkを選べる
 
-[8章](08-common-capabilities.md)では、両サービスに共通する軽量・標準・重量級の3段構造を扱いました。Geminiでは現時点で、応答までの時間が短いFlash系と、難問の精度を引き上げるPro系という形でモデルが並びます。さらに、回答前に内部で長めに考える**Deep Think**を選択できる場面が用意されています。Gemini 3.1 Deep ThinkがDeep Thinkの現行世代にあたり、Pro／Flashと並ぶ形で、思考量を多めに取る選択肢として加わります。
+[8章](08-common-capabilities.md)では、両サービスに共通する軽量・標準・重量級の3段構造を扱いました。Geminiでは現時点で、応答までの時間が短いFlash系と、難問の精度を引き上げるPro系という形でモデルが並びます。さらに、回答前に内部で長めに考える**Deep Think**を選択できる場面が用意されています。Gemini 3.1 Deep ThinkがDeep Thinkの現行世代で、Pro／Flashと並ぶ形で、思考量を多めに取る選択肢として加わります。
 
 利用条件は、Pro／Flash系統と分かれます。Gemini 3.1 Deep Thinkは個人向けのGoogle AI Ultraサブスクで利用できる一方、Workspaceの標準プランで扱えるのはGemini Pro／Flash系統です（最終確認：2026-05-16）。
 
