@@ -82,7 +82,7 @@ flowchart TB
 - [デスクトップの自動化](appendix-desktop-automation.md) — 自席のPC上で繰り返している手作業を生成AIに任せる選択肢
 - [Claude Code](appendix-claude-code.md) — 利用者のPC上で動くClaude製品の位置づけと、ブラウザ版との違い、最初の利用方針
 - [拡張検索と埋め込み検索](appendix-retrieval-and-embeddings.md) — RAG・Embedding・ベクトル検索・グラウンディングといった用語と仕組み。社内文書をAIに検索させたい場面や、ベンダー提案に含まれるこれらの用語を読み解く場面で参照
-- [ローカルLLM](appendix-local-llm.md) — 提供事業者のクラウド以外で生成AIを動かす選択肢と、検討時の動機
+- [ローカルLLM](appendix-local-llm.md) — 提供事業者のクラウド以外で生成AIを動かす選択肢と、検討の動機
 
 本編を読み終えたあと、必要になったタイミングで参照する想定です。
 
