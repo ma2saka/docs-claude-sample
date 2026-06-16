@@ -4,7 +4,7 @@
 
 ## 対象読者と前提
 
-- [7章](07-terminology.md)で「エージェント」の用語に目を通している人
+- [7章](07-terminology.md)で「エージェント」の用語に目を通した人
 - [8章](08-common-capabilities.md)で生成AIの共通的な使い方を把握している人
 - [Appendix: ワークフローツール](appendix-workflow-tools.md)でSaaS連携の輪郭を確認し、自分のPC上の作業にも広げたい人
 
