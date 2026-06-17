@@ -9,6 +9,7 @@ on:
       - '.textlintrc.json'
       - '.markdownlint.jsonc'
       - 'prh.yml'
+      - 'prh-style.yml'
       - 'package.json'
       - 'package-lock.json'
       - '.github/workflows/lint.yml'
