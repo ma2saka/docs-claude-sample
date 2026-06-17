@@ -6,7 +6,7 @@ Claude Codeは、Anthropic社のClaude製品の1つで、利用者のPC上のフ
 
 ## 対象読者と前提
 
-- [13章](13-claude.md)でブラウザ版Claudeを一通り利用した人
+- [13章](13-claude.md)でブラウザ版Claudeを一通り使った人
 - [Appendix: ワークフローツール](appendix-workflow-tools.md)で、生成AIが処理の1ステップとして動く構成に目を通した人
 - 「コードは書かないが、PC上のファイルや定型作業までAIに任せてみたい」立場の人
 
