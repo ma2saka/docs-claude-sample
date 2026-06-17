@@ -7,7 +7,8 @@
     "lint:text": "textlint 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
     "lint:text:fix": "textlint --fix 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
     "lint:md": "markdownlint 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
-    "lint:md:fix": "markdownlint --fix 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'"
+    "lint:md:fix": "markdownlint --fix 'docs/**/*.md' 'README.md' 'WRITING_GUIDE.md'",
+    "style:stats": "node scripts/style-stats.mjs"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.39.0",
